@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bob esponja chines</title>
+</head>
+<body>
+    <h1>Bob esponja chines</h1>
+    <h2>Capítulo 1: La casa de Bob</h2>
+    <p>海绵宝宝的家位于贝壳街124号，是一栋标志性的三层黄色凤梨造型建筑，<br>拥有独特的海洋风设计。房屋内部包括一间配有蓝色沙发的老式客厅、一间功能齐全的厨房、<br>一间带大浴缸的卫生间、一座藏书丰富的巨大图书馆，以及位于顶层、摆放着潜水钟造型弹簧床的卧室。</p>
+    <p>hELLO PATRICK</p><br>
+    <h2>Capítulo 2: La amistad de Bob y Patricio</h2>
+    <p>海绵宝宝和派大星是无话不谈的好朋友，他们经常一起在海底世界中冒险。<br>他们的友谊建立在互相支持和理解的基础上，无论遇到什么困难，他们总是彼此依靠。</p>
+    <h2>chega de chines agora e portugues </h2>
+    <h2>Capítulo 3: A vida na Fenda do Biquíni</h2>
+    <p><strong>A Fenda do Biquíni </strong> é uma comunidade subaquática vibrante onde vivem diversos personagens.<br> A cidade é conhecida por sua animada atmosfera e pela diversidade de locais e estabelecimentos<br> que oferecem uma ampla gama de atividades para seus habitantes.</p>
+    <h2>bob e patrick:</h2>
+    <a href="https://pt.wikipedia.org/wiki/SpongeBob_SquarePants">Saiba mais sobre Bob e Patrick</a>
+    <img src="img/images (5).jpg" alt="Bob e Patrick" width="500" height="300">
+    <img src="img/images.jpg" alt="Bob e Patrick babando" width="500" height="300">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/8B8jplhrlso?si=EU81BhVDy3ib5ouC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</body>
+</html>
